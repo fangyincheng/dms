@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\bin\Debug\dms.exe.config
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\bin\Debug\dms.exe
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\bin\Debug\dms.pdb
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\obj\Debug\dms.Login.resources
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\obj\Debug\dms.Properties.Resources.resources
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\obj\Debug\dms.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\obj\Debug\dms.exe
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\obj\Debug\dms.pdb
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\obj\Debug\dms.Form1.resources
+C:\Users\lenovo\Desktop\期末复习及作业\数据库大作业\dms\dms\obj\Debug\dms.csprojResolveAssemblyReference.cache
